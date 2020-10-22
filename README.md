@@ -53,3 +53,8 @@ public class Customers {
     
 }
 ```
+## Done
+[](https://github.com/ppc-ntu-khpi/34---classes-and-modifiers-IvanMishchenko1/blob/main/images/GetterAndSetter.png)
+
+## Advanced
+[](
