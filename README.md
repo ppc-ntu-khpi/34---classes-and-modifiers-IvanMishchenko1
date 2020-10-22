@@ -57,4 +57,4 @@ public class Customers {
 ![](https://github.com/ppc-ntu-khpi/34---classes-and-modifiers-IvanMishchenko1/blob/main/Solution/done.png)
 
 ## Advanced
-![](https://github.com/ppc-ntu-khpi/34---classes-and-modifiers-IvanMishchenko1/blob/main/images/placeholder.txt)
+![](https://github.com/ppc-ntu-khpi/34---classes-and-modifiers-IvanMishchenko1/blob/main/Solution/advanced.png)
