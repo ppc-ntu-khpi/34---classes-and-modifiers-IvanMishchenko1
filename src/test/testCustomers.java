@@ -3,9 +3,9 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package test;
+package src.test;
 
-import domain.*;
+import src.domain.Customers;
 
 public class testCustomers {
    

@@ -1,5 +1,5 @@
 
-package domain;
+package src.domain;
 
 
 public class Customers {
